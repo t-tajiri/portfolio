@@ -1,5 +1,5 @@
 <template>
-  <div class="w-64 mt-2">
+  <div class="w-64 mt-3">
     <div class="grid grid-cols-3 text-center text-gray-600">
       <span>Java</span>
       <span>MySQL</span>

@@ -6,11 +6,15 @@
     <img
       class="w-32 h-32 rounded-full"
       src="@/assets/avatar.svg"
+      alt="avatar"
     >
     <div>
-      <h2 class="text-lg text-center">
+      <h2 class="text-xl text-center">
         t-tajiri
       </h2>
+      <div class="mt-1 text-center text-lg text-teal-600">
+        Web Developer
+      </div>
       <Skillset />
     </div>
   </div>
