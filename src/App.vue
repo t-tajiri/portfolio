@@ -1,8 +1,16 @@
 <template>
-  <div id="app" class="flex h-screen justify-center items-center">
-    <img class="w-32 h-32 rounded-full" src="@/assets/avatar.svg">
+  <div
+    id="app"
+    class="flex h-screen justify-center items-center"
+  >
+    <img
+      class="w-32 h-32 rounded-full"
+      src="@/assets/avatar.svg"
+    >
     <div>
-      <h2 class="text-lg text-center">t-tajiri</h2>
+      <h2 class="text-lg text-center">
+        t-tajiri
+      </h2>
       <Skillset />
     </div>
   </div>
