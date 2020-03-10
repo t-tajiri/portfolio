@@ -1,10 +1,10 @@
 <template>
   <div
     id="app"
-    class="flex h-screen justify-center items-center"
+    class="flex h-screen flex-col md:flex-row justify-center items-center"
   >
     <img
-      class="w-32 h-32 rounded-full"
+      class="mx-auto md:mx-0 w-32 h-32 rounded-full"
       src="@/assets/avatar.svg"
       alt="avatar"
     >
