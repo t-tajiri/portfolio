@@ -1,6 +1,6 @@
 <template>
-  <div class="container mx-auto w-64">
-    <div class="grid grid-cols-3">
+  <div class="w-64 mt-2">
+    <div class="grid grid-cols-3 text-center text-gray-600">
       <span>Java</span>
       <span>MySQL</span>
       <span>JavaScript</span>
@@ -13,6 +13,6 @@
 
 <script>
 export default {
-  name: 'HelloWorld'
+  name: 'Skillset'
 }
 </script>
